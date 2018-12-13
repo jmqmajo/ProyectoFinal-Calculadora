@@ -9,6 +9,8 @@ Welcome to Proyecto Final - Calculadora's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+.. automodule:: app
+   :members:
 
 
 
